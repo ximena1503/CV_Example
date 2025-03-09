@@ -1,8 +1,8 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Nombre Completo Yised Ximena Sanabria Pardo
+**Profesión:** _Tecnico integrado en operarciones logisticas
 
 ## 📞 Contacto
 - **Teléfono:** +57 123 456 7890
@@ -10,20 +10,20 @@
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Gramser ser S.A.S** _(2023 - 2024)_
+- Operaria de producción
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Organización Cardenas** _(2022 - 2023)_
+- 
 
 ## 🎓 Educación
 ### **Universidad Ejemplo** _(2014 - 2018)_
 - Título obtenido.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Trabajo en equipo
+- **Adaptabilidad
+- **Resolución de problemas
 
 ---
 
