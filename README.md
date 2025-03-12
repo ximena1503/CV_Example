@@ -7,7 +7,7 @@ Soy estudiante del programa de Integración en Operaciones Logísticas, con cono
 ## 📞 Contacto
 - **Teléfono:** +57 123 456 7890
 - **Email:** ximenillana@hotmail.com
-- **LinkedIn:** www.linkedin.com/in/yised-sanabria-b42946351
+- **LinkedIn:** [www.linkedin.com/in/yised-sanabria-b42946351](www.linkedin.com/in/yised-sanabria-b42946351)
 
 ## 🏢 Experiencia Laboral
 ### **Manufacturas Eliot** _(2024 - Actualidad)_
@@ -71,4 +71,3 @@ Operaria producción de planta, inventario
 ---
 
 Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
-
