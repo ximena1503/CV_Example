@@ -1,29 +1,29 @@
-# CV_Example
+# CV Ximena Sanabria
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
-
+## Yised Ximena Sanabria Pardo
+**Profesión:** Integración en operaciones logisticas
+Soy estudiante del programa de Integración en Operaciones Logísticas, con conocimiento en gestión de inventarios, producción de planta y procesos logísticos. A lo largo de mi formación he adquirido experiencia en trabajo en equipo, estibado y empaque, lo que me ha permitido desarrollar una visión integral de los procesos operativos y logísticos en una empresa. Mi enfoque está orientado a la mejora continua y la eficiencia, con un interés particular por optimizar los recursos y garantizar la calidad en cada fase de la cadena de suministro.
 ## 📞 Contacto
 - **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** ximenillana@hotmail.com
+- **LinkedIn:** www.linkedin.com/in/yised-sanabria-b42946351
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Manufacturas Eliot** _(2024 - Actualidad)_
+Aprendiz SENA
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Gramser S.A.S** _(2023 - 2024)_
+Operaria producción de planta, inventario 
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2024 - 2025)_
+- Tecnico en operaciones Logisticas
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Habilidad 1** Trabajo en Equipo
+- **Habilidad 2** Agilidad
+- **Habilidad 3** Adaptibilidad
 
 ---
 
